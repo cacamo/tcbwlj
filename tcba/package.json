@@ -1,0 +1,15 @@
+{
+  "name": "tf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node service.js"
+  },
+  "author": "bigbossjuan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
